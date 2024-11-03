@@ -46,6 +46,12 @@
     <Compile Include="Pattern1.cs" />
     <Compile Include="Pattern2.cs" />
     <Compile Include="Pattern3.cs" />
+    <Compile Include="Pattern4.cs" />
+    <Compile Include="Pattern5.cs" />
+    <Compile Include="Pattern6.cs" />
+    <Compile Include="Pattern7.cs" />
+    <Compile Include="Pattern8.cs" />
+    <Compile Include="Pattern9.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
